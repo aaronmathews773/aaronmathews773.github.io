@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: #00FF66;
+}
+
+h1 {
+    font-size: 128px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 48px;
+}
+
+.vt323-regular {
+    font-family: "VT323", monospace;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.ls-item {
+    font-size: 32px;
+}
+  
